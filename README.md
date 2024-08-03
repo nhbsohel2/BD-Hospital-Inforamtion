@@ -1,10 +1,21 @@
-# BD Hospital Information is a Android application to get Hospital inforamtion of Bangladesh,Based on Sqlite Database </h5>
-##In this app user can get Hospital Name,Category,Speciality,Address,Email,Pone,Website Division wise.
+ BD Hospital Information App
 
+BD Hospital Information is an Android application designed to provide comprehensive information about hospitals in Bangladesh. The application leverages an SQLite database to store and retrieve hospital information, offering users an easy-to-navigate interface to search and view hospital details based on division categories.
 
-#  Features Implemented: </h5>
+## Features
 
-## Division Category Using GridLayout and CardView
-## Reading Hospital information Data from Sqlite Database
-## Show Data In a Recycler and Card View
-## Search Hospitals By name
+1. **Division Category Display**:
+   - Utilizes `GridLayout` and `CardView` to display different divisions.
+   - Provides a user-friendly interface for selecting divisions.
+
+2. **Database Integration**:
+   - Reads hospital information from an SQLite database.
+   - Ensures efficient data management and retrieval.
+
+3. **RecyclerView and CardView**:
+   - Displays hospital information in a `RecyclerView`.
+   - Each hospital entry is presented in a `CardView` for better readability and aesthetics.
+
+4. **Search Functionality**:
+   - Allows users to search for hospitals by name.
+   - Implements a search bar for quick access to desired hospital information.
