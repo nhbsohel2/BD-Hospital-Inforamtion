@@ -1,5 +1,3 @@
- BD Hospital Information App
-
 BD Hospital Information is an Android application designed to provide comprehensive information about hospitals in Bangladesh. The application leverages an SQLite database to store and retrieve hospital information, offering users an easy-to-navigate interface to search and view hospital details based on division categories.
 
 ## Features
